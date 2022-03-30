@@ -1,0 +1,25 @@
+{
+  "name": "Redux_Practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nazmul7989/Redux_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nazmul7989/Redux_Practice/issues"
+  },
+  "homepage": "https://github.com/Nazmul7989/Redux_Practice#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.0",
+    "redux": "^4.1.2"
+  }
+}
